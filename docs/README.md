@@ -1,2 +1,4 @@
-# pe-j
-Project Euler solutions in J
+# J Project Euler solutions
+
+<p align="center"><img src="logo.png"></p>
+
